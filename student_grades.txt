@@ -1,0 +1,9 @@
+# STUDENT RECORDS - Generated on 2026-06-11 16:07:52
+name|id|test1|test2|test3|average|grade
+Sue Johnson|2009|88.00|0.00|0.00|29.33|F
+
+# CLASS STATISTICS
+Total Students|1
+Class Average|29.33
+Highest Average|29.33
+Lowest Average|29.33
